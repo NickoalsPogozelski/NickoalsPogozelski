@@ -1,16 +1,27 @@
-### Hi there 👋 I'm Nickolas
+# <h1 align="center">Olá, meu nome é Nickolas! 🐈‍⬛</h1>
 
-<!--
-**NickoalsPogozelski/NickoalsPogozelski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🐱 Sobre mim
+ • 💻 - Técnico em Informática e Designer Gráfico
+ • 🛰️ - Trabalhando em **SERVI - Projetos e Cursos**  
+ • 🎓 - **Técnico em Informática** formado em **IFSUL**   
+ • 📚 - Estudando **Engenharia de Software** em **Uniasselvi**  
+ • 📌 - Morando atualmente em **Camaquã - RS**  
 
-Here are some ideas to get you started:
+## ⤴️ Github Stats
+<img align="left" alt="Nickoals" src="https://github-readme-stats-nickoalspogozelskis-projects.vercel.app/api/top-langs/?username=NickoalsPogozelski&layout=donut&show_icons=true"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🌭 USOS
+<div>
+<h4> Programação</h4>
+<img height="28" width="28" src="https://cdn.simpleicons.org/python" />
+<img height="28" width="28" src="https://cdn.simpleicons.org/javascript" />
+<img height="28" width="28" src="https://cdn.simpleicons.org/HTML5" />
+<img height="28" width="28" src="https://cdn.simpleicons.org/nodedotjs" />
+<img height="28" width="28" src="https://cdn.simpleicons.org/react" />
+<img height="28" width="28" src="https://cdn.simpleicons.org/unity"/>
+
+<h4> Design Gráfico</h4>
+<img height="29" width="29" src="https://cdn.simpleicons.org/adobephotoshop" />
+<img height="29" width="29" src="https://cdn.simpleicons.org/adobeillustrator" />
+<img height="29" width="29" src="https://cdn.simpleicons.org/canva" />
+</div>
