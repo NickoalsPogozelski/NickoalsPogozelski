@@ -6,10 +6,7 @@
  • 🎓 - **Técnico em Informática** formado em **IFSUL**   
  • 📚 - Estudando **Engenharia de Software** em **Uniasselvi**  
  • 📌 - Morando atualmente em **Camaquã - RS**  
-
-## ⤴️ Github Stats
-<img align="left" alt="Nickoals" src="https://github-readme-stats-nickoalspogozelskis-projects.vercel.app/api/top-langs/?username=NickoalsPogozelski&layout=donut&show_icons=true"/>
-
+ 
 ### 👉 USOS
 <div>
 <h4> Programação</h4>
