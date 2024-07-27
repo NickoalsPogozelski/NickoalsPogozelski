@@ -7,4 +7,6 @@
  • 📚 - Estudando **Engenharia de Software** em **Uniasselvi**  
  • 📌 - Morando atualmente em **Camaquã - RS**  
 
- [![Nickolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickoalsPogozelski)](https://github.com/anuraghazra/github-readme-stats)
+ [![Nickolas's GitHub stats](https://github-readme-stats-gaa1tiok5-nickoalspogozelskis-projects.vercel.app/)](https://github.com/anuraghazra/github-readme-stats)
+
+https://github-readme-stats-gaa1tiok5-nickoalspogozelskis-projects.vercel.app/
