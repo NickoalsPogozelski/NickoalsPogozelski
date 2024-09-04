@@ -1,6 +1,6 @@
-# <h1 align="center">Olá, meu nome é Nickolas! 🐈‍⬛</h1>
+# <h1 align="center">Olá, meu nome é Nickolas!</h1>
 
-## 🐱 Sobre mim
+## Sobre mim
  • 💻 - Desenvolvedor Full Stack  
  • 🛰️ - Trabalhando em **OneWeb - Soluções Inteligentes**  
  • 🎓 - **Técnico em Informática** formado em **IFSUL**   
