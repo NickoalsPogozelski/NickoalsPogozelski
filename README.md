@@ -5,6 +5,7 @@
  • 🛰️ - Trabalhando em **OneWeb - Soluções Inteligentes**  
  • 🎓 - **Técnico em Informática** formado em **IFSUL**   
  • 📚 - Estudando **Ciência da Computação** em **Universidade Cruzeiro do Sul**  
+ • 📚 - Estudando **Design de Jogos** em **UFPEL**  
  • 📌 - Morando atualmente em **Pelotas - RS**  
 
  ![Nickolas's GitHub stats](https://github-readme-stats-8a9j.vercel.app/api?username=NickoalsPogozelski&show_icons=true&theme=dracula&hide=stars,issues&show=prs_merged,prs_merged_percentage)
