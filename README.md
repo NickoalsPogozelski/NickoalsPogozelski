@@ -4,7 +4,6 @@
  • 💻 - Desenvolvedor Full Stack  
  • 🛰️ - Trabalhando em **OneWeb - Soluções Inteligentes**  
  • 🎓 - **Técnico em Informática** formado em **IFSUL**   
- • 📚 - Estudando **Ciência da Computação** em **Universidade Cruzeiro do Sul**  
  • 📚 - Estudando **Design de Jogos** em **UFPEL**  
  • 📌 - Morando atualmente em **Pelotas - RS**  
 
